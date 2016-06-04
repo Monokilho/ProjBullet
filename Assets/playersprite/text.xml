@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<TextureConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <name>defaulttesttexture</name>
+  <file_path>C:\Users\Rafael\Documents\repos\projbullet\bullet\Assets\playersprite\test.png</file_path>
+  <frames_per_line>5</frames_per_line>
+  <height>238</height>
+  <width>256</width>
+  <pixel_per_unit>2.5</pixel_per_unit>
+  <fps>60</fps>
+  <frame_length>0.03</frame_length>
+</TextureConfig>

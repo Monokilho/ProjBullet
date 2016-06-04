@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="Windows-1252"?>
+<Configs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <scriptpath>C:/Users/rafael/Documents/GitHub/ProjBullet/Assets/playerscript</scriptpath>
+  <musicpath>C:/Users/rafael/Documents/GitHub/ProjBullet/Assets/playermusic</musicpath>
+  <spritespath>C:/Users/rafael/Documents/GitHub/ProjBullet/Assets/playersprite</spritespath>
+  <y_velocity>450</y_velocity>
+  <x_velocity>450</x_velocity>
+  <mouse_sensitivity>0.45</mouse_sensitivity>
+  <use_mouse>false</use_mouse>
+</Configs>
